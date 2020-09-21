@@ -1,46 +1,12 @@
-# Hello to my Group
-
-Iam **Samir** ,
-_very happt to be with your group_ , I like :
-
-1.reading  
-2.sport  
-3.coding
-
-and
-
-- Geology
-- Traveling
-- Languages
+**Samir** , _student in HYF_
 
 ---
 
-My group members are :
+![Photo](https://avatars1.githubusercontent.com/u/67711948?s=460&u=e08367ea779afa28c14cc5ecc636f6c6133df45a&v=4 "Samir")
 
-1. Our coach is **Unmesh**
+[GitHub](https://github.com/samirm00 "Samir, GitHub")
 
-   - His from India
-   - he is doing his PhD in Amerstdam.
-
-2. **Krystyna** she is :
-
-   - form Ukrian
-
-   - **Psychologist**
-
-   - Yoga Teacher
-
-3. **Marie** she is:
-
-   - from Rwanda
-   - Economic
-
-   - Education Monitor
-
-4. **Houcinos**
-
-   - he is 34 ,
-
-   - from Tunisia,
-
-   - he has Material Engineering PhD, MBA
+- **Country**: Syria
+- **Age** : 35 years
+- **Profession** : Geologist
+- **Hobbies** : _Reading_ , _Learning Languages_ & _coding_
