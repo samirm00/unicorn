@@ -1,12 +1,15 @@
-**Houcinos** , _student in HYF_
+**Houcinos**
 
 ---
 
-![Photo](https://avatars3.githubusercontent.com/u/57623782?s=400&v=4 "Houcinos")
+   ![Photo](https://avatars3.githubusercontent.com/u/57623782?s=400&v=4 "Houcinos")
 
-[GitHub](https://github.com/Houcinos "Houcinos, GitHub")
+  [GitHub](https://github.com/Houcinos "Houcinos, GitHub")
 
-- **Country**: Tunisia
-- **Age** : 34 years
+- **Country**: **Tunisia**
+- **Age** : **34 years**
 - **Profession** : Material Engineering, **PhD**
-- **Hobbies** : _Reading_ , _Learning Languages_ & _coding_
+- **Hobbies** :
+  - *Reading*
+  - *Learning Languages*
+  - *coding*

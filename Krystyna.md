@@ -1,4 +1,4 @@
-**Krystyna** , _student in HYF_
+**Krystyna**
 
 ---
 
@@ -6,7 +6,11 @@
 
 [GitHub](https://github.com/KrystynaMil "Krystyna, GitHub")
 
-- **Country**: Ukraine
-- **Age** : 36 years
+- **Country**: **Ukraine**
+- **Age** : **36 years**
 - **Profession** : Psychologist & Yoga teacher
-- **Hobbies** : _Reading_ , _Learning Languages_ & _coding_
+- **Hobbies** :
+  - *Reading*
+  - *Learning Languages*
+  - *coding*
+  

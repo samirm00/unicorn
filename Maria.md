@@ -1,4 +1,4 @@
-**Maria** , _student in HYF_
+**Maria**
 
 ---
 
@@ -6,7 +6,10 @@
 
 [GitHub](https://github.com/sashinskaya "Maria, GitHub")
 
-- **Country**: Russia
-- **Age** : 33 years
+- **Country**: **Russia**
+- **Age** : **33 years**
 - **Profession** : Journalist & master in Science
-- **Hobbies** : _Reading_ , _Learning Languages_ & _coding_
+- **Hobbies** :
+  - *Reading*
+  - *Learning Languages*
+  - *Coding*

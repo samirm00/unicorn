@@ -1,4 +1,5 @@
-**Samir** , _student in HYF_
+  
+**Samir**
 
 ---
 
@@ -6,7 +7,11 @@
 
 [GitHub](https://github.com/samirm00 "Samir, GitHub")
 
-- **Country**: Syria
-- **Age** : 35 years
-- **Profession** : Geologist
-- **Hobbies** : _Reading_ , _Learning Languages_ & _coding_
+- **Country**: **Syria**
+- **Age** : **35 years**
+- **Profession** : Geologist & Geology teacher
+- **Hobbies** :
+  - *Reading*
+  - *Learning Languages*
+  - *Jogging*
+  - *Coding*

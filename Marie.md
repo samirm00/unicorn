@@ -1,4 +1,4 @@
-**Marie** , _student in HYF_
+**Marie**
 
 ---
 
@@ -6,7 +6,10 @@
 
 [GitHub](https://github.com/mariebelyse "Marie, GitHub")
 
-- **Country**: Rwanda
-- **Age** : 33 years
+- **Country**: **Rwanda**
+- **Age** : **33 years**
 - **Profession** : Economist & Education monitor
-- **Hobbies** : _Reading_ , _Learning Languages_ & _coding_
+- **Hobbies** :
+  - *Reading*
+  - *Learning Languages*
+  - *coding*
