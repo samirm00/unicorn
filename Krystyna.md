@@ -7,7 +7,7 @@
 [GitHub](https://github.com/KrystynaMil "Krystyna, GitHub")
 
 - **Country**: **Ukraine**
-- **Age** : **36 years**
+- **Age** : **36 yrs**
 - **Profession** : Psychologist & Yoga teacher
 - **Hobbies** :
   - *Reading*

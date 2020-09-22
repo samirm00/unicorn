@@ -7,7 +7,7 @@
 [GitHub](https://github.com/sashinskaya "Maria, GitHub")
 
 - **Country**: **Russia**
-- **Age** : **33 years**
+- **Age** : **33 yrs**
 - **Profession** : Journalist & master in Science
 - **Hobbies** :
   - *Reading*

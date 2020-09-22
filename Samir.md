@@ -8,7 +8,7 @@
 [GitHub](https://github.com/samirm00 "Samir, GitHub")
 
 - **Country**: **Syria**
-- **Age** : **35 years**
+- **Age** : **35 yrs**
 - **Profession** : Geologist & Geology teacher
 - **Hobbies** :
   - *Reading*

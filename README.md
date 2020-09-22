@@ -30,7 +30,7 @@
   [GitHub](https://github.com/Houcinos "Houcinos, GitHub")
 
 - **Country**: **Tunisia**
-- **Age** : **34 years**
+- **Age** : **34 yrs**
 - **Profession** : Material Engineering, **PhD**
 - **Hobbies** :
   - *Reading*
@@ -46,7 +46,7 @@
 [GitHub](https://github.com/KrystynaMil "Krystyna, GitHub")
 
 - **Country**: **Ukraine**
-- **Age** : **36 years**
+- **Age** : **36 yrs**
 - **Profession** : Psychologist & Yoga teacher
 - **Hobbies** :
   - *Reading*
@@ -62,7 +62,7 @@
 [GitHub](https://github.com/sashinskaya "Maria, GitHub")
 
 - **Country**: **Russia**
-- **Age** : **33 years**
+- **Age** : **33 yrs**
 - **Profession** : Journalist & master in Science
 - **Hobbies** :
   - *Reading*
@@ -78,7 +78,7 @@
 [GitHub](https://github.com/mariebelyse "Marie, GitHub")
 
 - **Country**: **Rwanda**
-- **Age** : **33 years**
+- **Age** : **33 yrs**
 - **Profession** : Economist & Education monitor
 - **Hobbies** :
   - *Reading*
@@ -94,7 +94,7 @@
 [GitHub](https://github.com/samirm00 "Samir, GitHub")
 
 - **Country**: **Syria**
-- **Age** : **35 years**
+- **Age** : **35 yrs**
 - **Profession** : Geologist & Geology teacher
 - **Hobbies** :
   - *Reading*

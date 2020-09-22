@@ -7,7 +7,7 @@
   [GitHub](https://github.com/Houcinos "Houcinos, GitHub")
 
 - **Country**: **Tunisia**
-- **Age** : **34 years**
+- **Age** : **34 yrs**
 - **Profession** : Material Engineering, **PhD**
 - **Hobbies** :
   - *Reading*

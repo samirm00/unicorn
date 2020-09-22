@@ -7,7 +7,7 @@
 [GitHub](https://github.com/mariebelyse "Marie, GitHub")
 
 - **Country**: **Rwanda**
-- **Age** : **33 years**
+- **Age** : **33 yrs**
 - **Profession** : Economist & Education monitor
 - **Hobbies** :
   - *Reading*
