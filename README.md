@@ -12,19 +12,13 @@
 
 [ Houcinos](/unicorn/Houcinos.md "Houcinos, Student Group 2")
 
+[Krystyna](/unicorn/Krystyna.md "Krystyna, Student Group 2")
 
+[Maria](/unicorn/Maria.md "Maria, Student Group 2")
 
-[Krystyna](https://github.com/KrystynaMil "Krystyna, Student Group 2")
+[Marie](/unicorn/Marie.md "Marie, Student Group 2")
 
-
-
-[Maria](https://github.com/sashinskaya "Maria, Student Group 2")
-
-
-
-[Marie](https://github.com/mariebelyse "Marie, Student Group 2")
-
-[Samir](https://github.com/samirm00 "Samir, Student Group 2")
+[Samir](/unicorn/Samir.md "Samir, Student Group 2")
 
 ---
 
