@@ -10,18 +10,18 @@
 
 ---
 
-[ Houcinos](/unicorn/Houcinos.md "Houcinos, Student Group 2")
+<a href="/unicorn/Houcinos.md">Houcinos</a>
 
-[Krystyna](/unicorn/Krystyna.md "Krystyna, Student Group 2")
+<a href="/unicorn/Krystyna.md">Krystyna</a>
 
-[Maria](/unicorn/Maria.md "Maria, Student Group 2")
+<a href="/unicorn/Maria.md">Maria</a>
 
-[Marie](/unicorn/Marie.md "Marie, Student Group 2")
+<a href="/unicorn/Marie.md">Marie</a>
 
-[Samir](/unicorn/Samir.md "Samir, Student Group 2")
+<a href="/unicorn/Samir.md">Samir</a>
 
 ---
 
-                                   > #_WE LOVE CODING_
+> #_WE LOVE CODING_
 
 ![Unicorn](https://muurstickerstunter.be/wp-content/uploads/2018/11/muursticker-unicorn-meisjeskamer-kleurrijk-700x700.jpg)
